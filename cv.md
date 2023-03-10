@@ -29,7 +29,8 @@ function longestConsec(strarr, k) {
     return longStr;
 }
 ```
-#### Experience: -
+#### Experience: 
++ 0
 #### Education: 
 + Open Web Academy
 #### English level: 
